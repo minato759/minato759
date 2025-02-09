@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @minato759
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ba student
+- 🌱 I’m currently learning B.A. student
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: no fun facts 
 
 <!---
 minato759/minato759 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
