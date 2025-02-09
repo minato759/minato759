@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning B.A. student
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me 
-- 😄 Pronouns: ....
+- 😄 Pronouns: ...
 - ⚡ Fun fact: no fun facts 
 
 <!---
